@@ -11,3 +11,11 @@ web-build/
 
 # macOS
 .DS_Store
+
+# Bucklescript
+/lib
+*.bs.js
+.bsb.lock
+.merlin
+*.gen.*
+*.log
